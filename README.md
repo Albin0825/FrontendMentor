@@ -6,9 +6,6 @@ Welcome to my collection of [Frontend Mentor](https://www.frontendmentor.io/) ch
 - [About Frontend Mentor](#about-frontend-mentor)
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## About Frontend Mentor
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. For more information, visit [Frontend Mentor](https://www.frontendmentor.io/).
