@@ -12,6 +12,7 @@ export default function App() {
           flex
           justify-center
           items-center
+          grow
         '
       >
         <div
