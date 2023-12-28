@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://albin0825.github.io/FrontendMentor/qr-code-component-main/)
+- Live site URL [here](https://albin0825.github.io/FrontendMentor/qr-code-component-main/)
 
 ## My process
 - I first checked to see whether the layout differed between mobile and desktop, but they did not.
@@ -37,12 +37,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-- HTML5
+- HTML
 - CSS
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React Framework
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 
 ### What I learned
@@ -55,7 +54,7 @@ I do not know if there is anything i particular i want to get better at, i thoug
 
 ### Useful resources
 
-- I did not use any resources on this one, everything came from memory 😄
+- When I didn't know the syntax for the CSS property I needed to use, I used [Tailwind CSS](https://tailwindcss.com/)
 
 ## Author
 
