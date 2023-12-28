@@ -1,3 +1,4 @@
+'use client'
 import Image from 'next/image'
 import qrCode from './assets/img/image-qr-code.png'
 
