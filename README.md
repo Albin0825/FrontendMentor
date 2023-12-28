@@ -13,7 +13,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## Projects
 Here's a list of the projects included in this repository:
 - [QR code component](https://albin0825.github.io/FrontendMentor/projects/qr-code-component)
-	> [Source code](https://github.com/albin0825/FrontendMentor/src/app/projects/qr-code-component/)
+	> [Source code](https://github.com/Albin0825/FrontendMentor/tree/master/src/app/projects/qr-code-component)
 > More projects will be added soon.
 
 ## Technologies Used
