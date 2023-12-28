@@ -54,7 +54,7 @@ I do not know if there is anything i particular i want to get better at, i thoug
 
 ### Useful resources
 
-- When I didn't know the syntax for the CSS property I needed to use, I used [Tailwind CSS](https://tailwindcss.com/)
+- When I didn't know the syntax for the CSS property I needed to use, I used [Tailwind CSS](https://tailwindcss.com/) documentation
 
 ## Author
 
