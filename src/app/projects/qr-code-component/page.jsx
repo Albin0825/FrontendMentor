@@ -9,7 +9,6 @@ export default function App() {
     <>
       <section
         className='
-          heroSection
           flex
           justify-center
           items-center
