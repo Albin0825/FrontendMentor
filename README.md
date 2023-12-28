@@ -12,10 +12,14 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Projects
 Here's a list of the projects included in this repository:
-- [QR code component](https://albin0825.github.io/FrontendMentor/qr-code-component-main/)
+- [QR code component](https://albin0825.github.io/FrontendMentor/qr-code-component/)
+	> [Source code](https://albin0825/FrontendMentor/src/app/qr-code-component/)
 > More projects will be added soon.
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React Framework
+- [Tailwind CSS](https://tailwindcss.com/) - CSS framework
