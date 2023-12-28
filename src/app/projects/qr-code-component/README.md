@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live site URL [here](https://albin0825.github.io/FrontendMentor/qr-code-component-main/)
+- Live site URL [here](https://albin0825.github.io/FrontendMentor/projects/qr-code-component)
 
 ## My process
 - I first checked to see whether the layout differed between mobile and desktop, but they did not.
